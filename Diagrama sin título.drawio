@@ -1,1 +1,117 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T13:46:33.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.7" etag="xLOTI7BZNkctBs-oO9Es" type="github"><diagram id="cXwgaYX3212IsbVkFlPN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-27T14:21:29.916Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="cDVGsBQaouW-xqC2WGyE" version="20.2.7" type="github">
+  <diagram id="cXwgaYX3212IsbVkFlPN" name="Página-1">
+    <mxGraphModel dx="2125" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aHXoucgUArJ6UUpW1m5e-1" target="aHXoucgUArJ6UUpW1m5e-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-2" value="Elemento&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Pastito&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Lobo&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Oveja&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="15" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-3" value="Están todos los elementos en el este del rio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="55" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="140" width="1430" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-5" value="Algoritmo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aHXoucgUArJ6UUpW1m5e-6" target="aHXoucgUArJ6UUpW1m5e-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-6" value="(FUNCION)&lt;br&gt;Escoger un Elemento" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aHXoucgUArJ6UUpW1m5e-8" target="aHXoucgUArJ6UUpW1m5e-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-8" value="(FUNCION)&lt;br&gt;Cruzamos el río" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="667" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aHXoucgUArJ6UUpW1m5e-10" target="aHXoucgUArJ6UUpW1m5e-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-13" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aHXoucgUArJ6UUpW1m5e-12">
+          <mxGeometry x="-0.0435" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aHXoucgUArJ6UUpW1m5e-10" target="aHXoucgUArJ6UUpW1m5e-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-17" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aHXoucgUArJ6UUpW1m5e-15">
+          <mxGeometry x="-0.2545" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-10" value="(IF-ELSE)&lt;br&gt;¿Los elementos que quedan se comen?" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aHXoucgUArJ6UUpW1m5e-14" target="aHXoucgUArJ6UUpW1m5e-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-130" y="340" />
+              <mxPoint x="130" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-14" value="(FUNCION)&lt;br&gt;Escoger elemento diferente al anterior" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aHXoucgUArJ6UUpW1m5e-18" target="aHXoucgUArJ6UUpW1m5e-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-18" value="(FUNCION)&lt;br&gt;Dejo el elemento" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="667" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aHXoucgUArJ6UUpW1m5e-20" target="aHXoucgUArJ6UUpW1m5e-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-20" value="(FUNCION)&lt;br&gt;Cruzo el rio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aHXoucgUArJ6UUpW1m5e-23" target="aHXoucgUArJ6UUpW1m5e-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-28" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aHXoucgUArJ6UUpW1m5e-26">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aHXoucgUArJ6UUpW1m5e-23" target="aHXoucgUArJ6UUpW1m5e-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-23" value="(IF-ELSE)&lt;br&gt;¿Los elementos que quedan se comen?" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="443" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aHXoucgUArJ6UUpW1m5e-25" target="aHXoucgUArJ6UUpW1m5e-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="620" />
+              <mxPoint x="850" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-25" value="(FUNCION)&lt;br&gt;Escojo un elemento diferente al anterior" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="468" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aHXoucgUArJ6UUpW1m5e-30" target="aHXoucgUArJ6UUpW1m5e-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHXoucgUArJ6UUpW1m5e-30" value="(FUNCION)&lt;br&gt;Dejo el elemento" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
