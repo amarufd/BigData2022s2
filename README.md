@@ -5,3 +5,6 @@ Este repositorio, contiene el desarrollo que se realiza en la clase de BigData d
 * Presentación del curso
 * Introducción
 * Primero pasos en GIT
+
+## Segunda clase
+* Revisando GitHub Desktop
