@@ -1,4 +1,4 @@
-![Imagen de la clase](https://github.com/amarufd/BigData2022s2/blob/main/afernandez-client-config.jpeg)
+![Imagen de la clase](https://github.com/amarufd/BigData2022s2/blob/main/afernandez-client-config.png)
 
 
 # BigData2022s2
