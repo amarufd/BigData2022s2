@@ -11,3 +11,6 @@ Este repositorio, contiene el desarrollo que se realiza en la clase de BigData d
 
 ## Segunda clase
 * Revisando GitHub Desktop
+* Algoritmo, el problema del grangero
+
+![Algoritmo, el problema del grangero](https://github.com/amarufd/BigData2022s2/blob/main/Diagrama%20sin%20t%C3%ADtulo.drawio.svg)
