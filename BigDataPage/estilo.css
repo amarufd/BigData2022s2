@@ -1,0 +1,35 @@
+/* Modificando los Ids */
+#header {
+    padding: 30px;
+    background-color: cadetblue;
+    display: flex;
+}
+
+#footer {
+    padding: 30px;
+    background-color: cadetblue;
+} 
+
+#content {
+    padding: 20px;
+    margin: 40px;
+    background-color: khaki;
+}
+
+/* Modificando las Clases */
+
+.header-title {
+}
+.header-image {
+}
+
+/* Modificandop los Tags */
+
+body {
+    background-color: bisque;
+}
+
+table, tr, td, th {
+    border: inset black 1px;
+}
+
