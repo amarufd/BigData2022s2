@@ -19,8 +19,11 @@
 /* Modificando las Clases */
 
 .header-title {
+    padding-left: 50px;
+    width: 100%;
 }
 .header-image {
+    width: 35%
 }
 
 /* Modificandop los Tags */
