@@ -22,8 +22,19 @@
     padding-left: 50px;
     width: 100%;
 }
+
 .header-image {
     width: 35%
+}
+
+.seccion {
+    padding: 10px;
+    margin: 10px;
+    border: solid 1px black
+}
+
+.titulo-seccion {
+    border-bottom: solid 2px black;
 }
 
 /* Modificandop los Tags */
